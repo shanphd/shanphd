@@ -1,16 +1,25 @@
-### Hi there 👋
+## ABOUT ME
+```
+My Name is Gowri Shankar.I am Working in Financial Industry DTCC .
+interested in the Field of Data Science and Machine Learning. Focusing More on Career Transition in the Field of Data Science.
+```
+## EDUCATION 
+```
+MTECHin Data Science Bits Pilani
+```
+## CERTIFICATION
+```
+AWS Certified Solutions Architect – Associate
+Pivotal Greenplum Administrator
+Microsoft Certified: Azure Fundamentals
+```
+## LINKDEIN PAGE
+[Gowri shankar Linkedin Page](www.linkedin.com/in/gowri-shankar-181263116)
+## GITHUB PAGE
+[Gowri Shankar Github Page](https://github.com/shanphd)
 
-<!--
-**shanphd/shanphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 
