@@ -14,7 +14,7 @@ Pivotal Greenplum Administrator
 Microsoft Certified: Azure Fundamentals
 ```
 ## LINKDEIN PAGE
-[Gowri shankar Linkedin Page](www.linkedin.com/in/gowri-shankar-181263116)
+[Gowri shankar Linkedin Page](https://www.linkedin.com/in/gowri-shankar-181263116/)
 ## GITHUB PAGE
 [Gowri Shankar Github Page](https://github.com/shanphd)
 
