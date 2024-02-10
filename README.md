@@ -5,7 +5,7 @@ interested in the Field of Data Science and Machine Learning. Focusing More on C
 ```
 ## EDUCATION 
 ```
-MTECHin Data Science Bits Pilani
+MTECH in Data Science Bits Pilani
 ```
 ## CERTIFICATION
 ```
