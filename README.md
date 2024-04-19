@@ -18,6 +18,8 @@ Microsoft Certified: Azure Fundamentals
 ## GITHUB PAGE
 [Gowri Shankar Github Page](https://github.com/shanphd)
 
+## PROFILE VISIT
+![](https://komarev.com/ghpvc/?username=shanphd&color=blue&label=PROFILE+VIEWS)
 
 
 
