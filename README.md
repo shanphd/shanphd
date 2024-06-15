@@ -10,6 +10,7 @@ MTECH in Data Science Bits Pilani
 ## CERTIFICATION
 ```
 AWS Certified Solutions Architect – Associate
+Github Foundations
 Pivotal Greenplum Administrator
 Microsoft Certified: Azure Fundamentals
 ```
