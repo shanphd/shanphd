@@ -1,6 +1,6 @@
 ## ABOUT ME
 ```
-My Name is Gowri Shankar.I am Working in Financial Industry DTCC .
+My Name is Gowri Shankar.I am Working in Financial Industry  .
 interested in the Field of Data Science and Machine Learning. Focusing More on Career Transition in the Field of Data Science.
 ```
 ## EDUCATION 
