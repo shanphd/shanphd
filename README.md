@@ -1,6 +1,6 @@
 # Hi there 👋, I'm G Shankar
 
-**SnowPro Advanced Certified** | Snowflake Data Platform Engineer | M.Tech Data Science [BITS Pilani] | Generative AI & ML Enthusiast
+SnowPro Advanced Certified | Snowflake Data Platform Engineer | M.Tech Data Science [BITS Pilani] | Generative AI & ML Enthusiast
 
 Specializing in Snowflake Platforms.Passionate about AI/ML integration using Snowflake Cortex, Snowpark ML, and cloud-native data solutions for financial analytics.
 
