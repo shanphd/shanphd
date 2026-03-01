@@ -36,8 +36,8 @@ Specializing in Snowflake Platforms.Passionate about AI/ML integration using Sno
 | **AI/ML** | Snowflake Cortex Analyst/Code, LangChain integration |
 
 ## 📊 GitHub Stats
-![G Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanphd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanphd&layout=compact&theme=radical)
+![G Shankar's GitHub stats]([https://github.com/shanphd])
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/g-shankar-181263116/)
