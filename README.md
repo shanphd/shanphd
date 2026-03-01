@@ -35,8 +35,8 @@ Specializing in Snowflake Platforms.Passionate about AI/ML integration using Sno
 | **Languages** | SQL, Python (ML pipelines), Github |
 | **AI/ML** | Snowflake Cortex Analyst/Code, LangChain integration |
 
-## 📊 GitHub Stats
-![G Shankar's GitHub stats]([https://github.com/shanphd])
+## 📊 GitHub Page
+![G Shankar's GitHub Page]([https://github.com/shanphd])
 
 
 ## 📫 Let's Connect
