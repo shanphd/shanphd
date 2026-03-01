@@ -32,7 +32,7 @@ Specializing in Snowflake Platforms.Passionate about AI/ML integration using Sno
 |----------|-------------|
 | **Snowflake** | SnowPro Advanced: Cortex AI, Snowpark ML, Dynamic Tables, Streams & Tasks |
 | **Data Warehousing** | Greenplum (Administrator Certified), PostgreSQL |
-| **Languages** | SQL, Python (ML pipelines) |
+| **Languages** | SQL, Python (ML pipelines), Github |
 | **AI/ML** | Snowflake Cortex Analyst/Code, LangChain integration |
 
 ## 📊 GitHub Stats
