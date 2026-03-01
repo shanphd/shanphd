@@ -32,8 +32,7 @@ Specializing in Snowflake Platforms.Passionate about AI/ML integration using Sno
 |----------|-------------|
 | **Snowflake** | SnowPro Advanced: Cortex AI, Snowpark ML, Dynamic Tables, Streams & Tasks |
 | **Data Warehousing** | Greenplum (Administrator Certified), PostgreSQL |
-| **Cloud Platforms** | AWS (SageMaker, Aurora RDS), Azure ML |
-| **Languages** | SQL, Python (ML pipelines), Bash |
+| **Languages** | SQL, Python (ML pipelines) |
 | **AI/ML** | Snowflake Cortex Analyst/Code, LangChain integration |
 
 ## 📊 GitHub Stats
