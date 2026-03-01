@@ -2,7 +2,7 @@
 
 **SnowPro Advanced Certified** | Snowflake Data Platform Engineer | M.Tech Data Science [BITS Pilani] | Generative AI & ML Enthusiast
 
-specializing in Snowflake platforms. Passionate about AI/ML integration using Snowflake Cortex, Snowpark ML, and cloud-native data solutions for financial analytics.[web:39]
+Specializing in Snowflake Platforms.Passionate about AI/ML integration using Snowflake Cortex, Snowpark ML, and cloud-native data solutions for financial analytics.
 
 ## 🚀 Current Focus
 - Snowflake Cortex AI & Snowpark ML development
@@ -14,7 +14,7 @@ specializing in Snowflake platforms. Passionate about AI/ML integration using Sn
 - **Lead Database Engineer (Greenplum/Snowflake/AWS)**, DTCC (Sep 2018 – Present)
 - **Senior Database Engineer**, TCS (Jun 2016 – Sep 2018)
 - **Senior Database Administrator**, Wipro (Mar 2015 – May 2016)
-- **Database Administrator**, IPsoft (May 2013 – Mar 2015)[web:39]
+- **Database Administrator**, IPsoft (May 2013 – Mar 2015)
 
 ## 🎓 Education & Certifications
 - **M.Tech in Data Science**, BITS Pilani
