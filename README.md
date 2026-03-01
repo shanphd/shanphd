@@ -38,7 +38,9 @@ Specializing in Snowflake Platforms.Passionate about AI/ML integration using Sno
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/g-shankar-181263116/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanphd)
+
 [![Location](https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-blueviolet)](https://www.linkedin.com/in/g-shankar-181263116/)
 
 **Open to Data Science/ML opportunities leveraging Snowflake AI expertise!** 
