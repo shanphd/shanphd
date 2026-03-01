@@ -1,28 +1,49 @@
-## ABOUT ME
-```
-My Name is Gowri Shankar.I am Working in Financial Industry  .
-interested in the Field of Data Science and Machine Learning. Focusing More on Career Transition in the Field of Data Science.
-```
-## EDUCATION 
-```
-MTECH in Data Science Bits Pilani
-```
-## CERTIFICATION
-```
-AWS Certified Solutions Architect – Associate
-Github Foundations
-Pivotal Greenplum Administrator
-Microsoft Certified: Azure Fundamentals
-```
-## LINKDEIN PAGE
-[Gowri shankar Linkedin Page](https://www.linkedin.com/in/gowri-shankar-181263116/)
-## GITHUB PAGE
-[Gowri Shankar Github Page](https://github.com/shanphd)
+# Hi there 👋, I'm G Shankar
 
-## PROFILE VISIT
-![](https://komarev.com/ghpvc/?username=shanphd&color=blue&label=PROFILE+VIEWS)
+**SnowPro Advanced Certified** | Snowflake Data Platform Engineer | M.Tech Data Science [BITS Pilani] | Generative AI & ML Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=shanphd&color=blue&label=PROFILE+VIEWS)
+
+specializing in Snowflake platforms. Passionate about AI/ML integration using Snowflake Cortex, Snowpark ML, and cloud-native data solutions for financial analytics.[web:39]
+
+## 🚀 Current Focus
+- Snowflake Cortex AI & Snowpark ML development
+- Generative AI applications in financial data platforms
+- Data pipelines for machine learning workflows
+- Enterprise data optimization (Snowflake, Greenplum, AWS)
+
+## 💼 Professional Experience
+- **Lead Database Engineer (Greenplum/Snowflake/AWS)**, DTCC (Sep 2018 – Present)
+- **Senior Database Engineer**, TCS (Jun 2016 – Sep 2018)
+- **Senior Database Administrator**, Wipro (Mar 2015 – May 2016)
+- **Database Administrator**, IPsoft (May 2013 – Mar 2015)[web:39]
+
+## 🎓 Education & Certifications
+- **M.Tech in Data Science**, BITS Pilani
+- **SnowPro Advanced Certification** 🏆
+- **SnowPro Core Certification** 🏆
+- **SnowPro Associate Certification** 🏆
+- **AWS Certified Solutions Architect – Associate**
+- **Pivotal Greenplum Administrator**
+- **Microsoft Certified: Azure Fundamentals**
+- **GitHub Foundations**
 
 
+## 🛠️ Technical Stack
+| Category | Technologies |
+|----------|-------------|
+| **Snowflake** | SnowPro Advanced: Cortex AI, Snowpark ML, Dynamic Tables, Streams & Tasks |
+| **Data Warehousing** | Greenplum (Administrator Certified), PostgreSQL |
+| **Cloud Platforms** | AWS (SageMaker, Aurora RDS), Azure ML |
+| **Languages** | SQL, Python (ML pipelines), Bash |
+| **AI/ML** | Snowflake Cortex Analyst/Code, LangChain integration |
 
+## 📊 GitHub Stats
+![G Shankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanphd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanphd&layout=compact&theme=radical)
 
- 
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/g-shankar-181263116/)
+[![Location](https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-blueviolet)](https://www.linkedin.com/in/g-shankar-181263116/)
+
+**Open to Data Science/ML opportunities leveraging Snowflake AI expertise!**
