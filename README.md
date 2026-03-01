@@ -2,8 +2,6 @@
 
 **SnowPro Advanced Certified** | Snowflake Data Platform Engineer | M.Tech Data Science [BITS Pilani] | Generative AI & ML Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=shanphd&color=blue&label=PROFILE+VIEWS)
-
 specializing in Snowflake platforms. Passionate about AI/ML integration using Snowflake Cortex, Snowpark ML, and cloud-native data solutions for financial analytics.[web:39]
 
 ## 🚀 Current Focus
@@ -46,4 +44,6 @@ specializing in Snowflake platforms. Passionate about AI/ML integration using Sn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/g-shankar-181263116/)
 [![Location](https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-blueviolet)](https://www.linkedin.com/in/g-shankar-181263116/)
 
-**Open to Data Science/ML opportunities leveraging Snowflake AI expertise!**
+**Open to Data Science/ML opportunities leveraging Snowflake AI expertise!** 
+
+![Profile Views](https://komarev.com/ghpvc/?username=shanphd&color=blue&label=PROFILE+VIEWS)
